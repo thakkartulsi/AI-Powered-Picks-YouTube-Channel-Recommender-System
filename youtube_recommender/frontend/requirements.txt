@@ -1,1 +1,2 @@
-# requirements.txt - Auto-generated file
+streamlit
+requests

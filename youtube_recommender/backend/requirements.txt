@@ -1,1 +1,4 @@
-# requirements.txt - Auto-generated file
+Flask
+requests
+sentence-transformers
+numpy
